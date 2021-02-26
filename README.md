@@ -1,0 +1,2 @@
+# larave_sanctum
+sanctum
